@@ -5,8 +5,6 @@
 
 - 🔭 **Frontend Developer in https://useinsider.com**
 
-- 🌱 Learning **React & Vue**
-
 - 📫 **alpsenel@outlook.com** / **https://www.linkedin.com/in/alpsenel/**
 
 
