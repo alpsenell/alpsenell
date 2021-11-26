@@ -1,8 +1,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alpsenell" alt="alpsenell" /> </p>
 
-- 🔭 **Frontend Developer in https://useinsider.com**
+- **Frontend Developer in https://useinsider.com**
 
-- 📫 **alpsenel@outlook.com** / **https://www.linkedin.com/in/alpsenel/**
+- **alpsenel@outlook.com** / **https://www.linkedin.com/in/alpsenel/**
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alpsenell&show_icons=true" alt="alpsenell" /></p>
