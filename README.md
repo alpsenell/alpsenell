@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Alp</h1>
-<h3 align="center">A frontend developer from Istanbul, Turkey</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alpsenell" alt="alpsenell" /> </p>
 
 - 🔭 **Frontend Developer in https://useinsider.com**
